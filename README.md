@@ -146,6 +146,6 @@ Amrita Vishwa Vidyapeetham, Mysuru
 
 ---
 
-## 📜 License
+
 
 This project is created for educational and learning purposes.
