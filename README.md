@@ -9,7 +9,7 @@ This project demonstrates the implementation of Machine Learning algorithms to c
 
 The project uses the famous Iris dataset from Scikit-learn and compares the performance of multiple classification algorithms.
 
----
+--
 
 ##  Objectives
 
